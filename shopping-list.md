@@ -7,3 +7,8 @@
 - Coke
 - Shower Soap
 - Shampoo
+- Bread
+- Butter
+- Smoked Ham
+- Sliced Cheese
+- Caviar
