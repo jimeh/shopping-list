@@ -6,3 +6,8 @@
 - Steak
 - Coke
 - Shower Soap
+- Bread
+- Butter
+- Smoked Ham
+- Sliced Cheese
+- Caviar
