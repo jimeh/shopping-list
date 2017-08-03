@@ -13,3 +13,7 @@
 - Sliced Cheese
 - Caviar
 - Cheese Block
+- Flour
+- Tomatoes
+- Salami
+- Banana
