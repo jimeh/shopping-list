@@ -1,8 +1,9 @@
 # My Shopping List
 
-- Milk
+- Milk (full fat)
 - Coffee
 - Sugar
-- Steak
+- Rib-Eye Steak
 - Coke
 - Shower Soap
+- Shampoo
