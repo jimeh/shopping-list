@@ -12,3 +12,4 @@
 - Smoked Ham
 - Sliced Cheese
 - Caviar
+- Cheese Block
